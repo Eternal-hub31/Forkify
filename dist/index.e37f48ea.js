@@ -791,34 +791,7 @@ const ajaxCall = async function(url, uploadData) {
     } catch (err) {
         throw err;
     }
-}; // export const GETJSON = async function (url) {
- //   try {
- //     const fetchPro = fetch(url);
- //     const res = await Promise.race([fetchPro, timeout(timeoutseconds)]);
- //     const data = await res.json();
- //     if (!res.ok) throw new Error(`{${data.message} , ${res.ok}}`);
- //     return data;
- //   } catch (err) {
- //     throw err;
- //   }
- // };
- // export const SENDJSON = async function (url, uploadData) {
- //   try {
- //     const fetchPro = fetch(url, {
- //       method: 'POST',
- //       headers: {
- //         'Content-Type': 'application/json',
- //       },
- //       body: JSON.stringify(uploadData),
- //     });
- //     const res = await Promise.race([fetchPro, timeout(timeoutseconds)]);
- //     const data = await res.json();
- //     if (!res.ok) throw new Error(`{${data.message} , ${res.ok}}`);
- //     return data;
- //   } catch (err) {
- //     throw err;
- //   }
- // };
+};
 
 },{"./config":"k5Hzs","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"k5Hzs":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
