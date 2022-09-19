@@ -29,7 +29,7 @@
 79C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\src\sass\_header.scss133017688250000000 0
 117C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\caniuse-lite\data\features\intl-pluralrules.js133017688250000000 0
 101C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\runtime-service-worker133017688250000000 1
-62C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist133080795865773110 1
+62C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist133080804172323910 1
 94C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\json5\dist\index.min.js133017688250000000 0
 95C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\sass\types\importer.d.ts133017688250000000 0
 69C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\.prettierrc133017688250000000 0
@@ -78,7 +78,7 @@
 95C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\terser\dist\package.json133017688250000000 0
 160C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\index.js133017688250000000 0
 130C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133017688250000000 0
-68C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\index.html133017688250000000 0
+68C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\index.html133080804163918724 0
 84C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\node-releases133017688250000000 1
 98C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\nan\nan_converters_43_inl.h133017688250000000 0
 115C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\utility-types\dist\functional-helpers.js.map133017688250000000 0
@@ -1770,7 +1770,7 @@
 85C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\nan\nan_weak.h133017688250000000 0
 127C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133017688250000000 0
 103C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\packager-js\src\index.js133017688250000000 0
-81C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.f7626f62.css133080795864482548 0
+81C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.f7626f62.css133080804171885084 0
 84C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\nan\README.md133017688250000000 0
 80C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\nan\tools133017688250000000 1
 107C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\caniuse-lite\data\features\mathml.js133017688250000000 0
@@ -3815,7 +3815,7 @@
 107C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\core\test\serializer.test.js133017688250000000 0
 112C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\reporter-dev-server\src\Server.js133017688250000000 0
 113C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\core\src\requests\ConfigRequest.js133017688250000000 0
-73C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.html133080795864482548 0
+73C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.html133080804172284024 0
 118C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\reporter-dev-server\src\serverErrors.js133017688250000000 0
 120C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133017688250000000 0
 112C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\@parcel\reporter-dev-server\src\templates133017688250000000 1
@@ -4207,13 +4207,13 @@
 86C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\.bin\terser.cmd133017688250000000 0
 86C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\node_modules\.bin\terser.ps1133017688250000000 0
 83C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\favicon.76dd299c.png133017688250000000 0
-83C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\favicon.8b2f57bf.png133080795864482548 0
-81C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\icons.21bad73c.svg133080795865703303 0
+83C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\favicon.8b2f57bf.png133080804171875114 0
+81C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\icons.21bad73c.svg133080804172274046 0
 81C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\icons.c14567a0.svg133017688250000000 0
-81C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\icons.dfd7a6db.svg133080795864482548 0
+81C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\icons.dfd7a6db.svg133080804172274046 0
 80C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.a995af0f.js133017688250000000 0
-80C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.e37f48ea.js133080795865543734 0
-84C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.e37f48ea.js.map133080795865573650 0
-85C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.f7626f62.css.map133080795864562338 0
-80C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\logo.726d37a8.png133080795864532421 0
+80C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.e37f48ea.js133080804172284024 0
+84C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.e37f48ea.js.map133080804172303966 0
+85C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\index.f7626f62.css.map133080804171905031 0
+80C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\logo.726d37a8.png133080804171885084 0
 80C:\Users\mohammed\Downloads\Forkify-master\Forkify-master\dist\logo.8a7af738.png133017688250000000 0
